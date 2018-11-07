@@ -828,7 +828,7 @@ Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/Onlin
 Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en/OnlineSubsystem.locres	2018-08-27T04:22:27.000Z
 Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/OnlineSubsystemUtils.locmeta	2018-08-27T04:22:32.000Z
 Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en/OnlineSubsystemUtils.locres	2018-08-27T04:22:32.000Z
-Engine/GlobalShaderCache-SF_METAL_SM5.bin	2018-11-07T05:00:07.000Z
+Engine/GlobalShaderCache-SF_METAL_SM5.bin	2018-11-07T05:05:31.000Z
 Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uasset	2018-11-07T05:00:40.000Z
 Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uexp	2018-11-07T05:00:40.000Z
 Engine/Content/ArtTools/RenderToTexture/Enums/EIntTypes.uasset	2018-11-07T05:00:40.000Z
@@ -1729,7 +1729,7 @@ Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset	20
 Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uexp	2018-11-07T05:00:24.000Z
 Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset	2018-11-07T05:00:23.000Z
 Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uexp	2018-11-07T05:00:23.000Z
-NIHT_TheGame/AssetRegistry.bin	2018-11-07T05:00:44.000Z
+NIHT_TheGame/AssetRegistry.bin	2018-11-07T05:05:32.000Z
 NIHT_TheGame/Content/Swarmer_Scaled.uasset	2018-11-07T05:00:34.000Z
 NIHT_TheGame/Content/Swarmer_Scaled.uexp	2018-11-07T05:00:34.000Z
 NIHT_TheGame/Content/lambert2.uasset	2018-11-07T05:00:30.000Z
